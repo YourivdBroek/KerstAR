@@ -75,14 +75,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab4484534c4f51b40a6a231fb92afde0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  allPresets:
-  - {fileID: 1953155275157598937, guid: d3d441dca1bc69b4e88ef911322631c4, type: 3}
-  - {fileID: 7059163302554706496, guid: 34db40eaf4378614f820e689c66f6c53, type: 3}
-  - {fileID: 6522537844450623507, guid: 2c25375af175a7f4db4a9ecb0d7cd6d5, type: 3}
-  buttonDebugText: {fileID: 0}
-  faceDebugText: {fileID: 0}
-  transition: {fileID: 2490023218945032798, guid: 87d45885fc7fa4d498e825751eaf8938,
-    type: 3}
+  allPresets: []
 --- !u!1 &7869527729303143941
 GameObject:
   m_ObjectHideFlags: 0
